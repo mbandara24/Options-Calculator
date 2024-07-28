@@ -12,6 +12,10 @@ ToDo:
 Here is a link to the interactive plot:
 [link](./option.html)
 
+and the plot:
+
+{% include ./option.html %}
+
 Visualisations made by interating over grid of strike prices and time to expiries, to show how the greeks Gamma,Vega and Theta vary over this space.
 
 ![](Gamma.png)
